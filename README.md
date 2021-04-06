@@ -1,2 +1,2 @@
 # ColorGame
-Link to the Game - harsh5751.github.io/colorgame/
+Link to the Game - https://harsh5751.github.io/ColorGame/
